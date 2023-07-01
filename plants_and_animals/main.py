@@ -5,8 +5,8 @@ import time
 import world
 
 # SET SOME PARAMS HERE
-SCREEN_SIZE_X = 512
-SCREEN_SIZE_Y = 512
+SCREEN_SIZE_X = 800
+SCREEN_SIZE_Y = 800
 SIM_PIX_SIZE = 4
 UPDATE_TIME = 0 # seconds
 
